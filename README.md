@@ -27,3 +27,9 @@ Contents:
 11. SARL: Single Agent Reinforcement Learning Algorithm for path planning
 
 12. System Vault , it's moniotring and alert system https://github.com/vivanks/System-Vault-And-It-s-Monitoring-using-Python
+
+13. iCalibrate: A set of softwares to denoise and correlate sensor data to relevant features
+
+14. IoT using Firebase: Program to access and upload data to Firebase Cloud
+
+15. Robotics Projects: A set of Codes with description for various robotics projects
