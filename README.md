@@ -28,7 +28,7 @@ Contents:
 
 12. System Vault , it's moniotring and alert system https://github.com/vivanks/System-Vault-And-It-s-Monitoring-using-Python
 
-13. iCalibrate: A set of softwares to denoise and correlate sensor data to relevant features
+13. iCalibrate: A set of algorithms to denoise and correlate sensor data to relevant features
 
 14. IoT using Firebase: Program to access and upload data to Firebase Cloud
 
