@@ -5,7 +5,7 @@ This repository contains the List and links of varoious projects I have worked o
 Contents:
 
 1. Optical Character Recognition for Devanagari Script 
-https://github.com/vivanks/OCR-For-Devanagari-With-CNN
+https://github.com/sumitrj/Devanagari-OCR
 
 2. iHearIT: the world’s most Economic and Intelligent Hearing Aid 
 https://github.com/sumitrj/iHearIT
@@ -26,7 +26,7 @@ https://github.com/sumitrj/DiaBeaTiT
 https://github.com/sumitrj/hClassify
 
 8. AutoConnect: Classifier of Health Condition of Automobile 
-https://github.com/vivanks/AutoConnect-IoT-Failure-Prediction
+https://github.com/sumitrj/AutoConnect-Failure-detection-for-Automobiles
 
 9. Volunticity Website: A prototype website for a Seattle based Startup that connects Volunteers and seeking organizations https://github.com/vivanks/volunticity
 
