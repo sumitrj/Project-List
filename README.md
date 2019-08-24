@@ -11,9 +11,9 @@ https://github.com/vivanks/OCR-For-Devanagari-With-CNN
 https://github.com/sumitrj/iHearIT
 
 3. Protection Switchgear Selection Tool for Schneider Electric 
-https://github.com/vivanks/Selection-Tool-for-Protection-Relays
+https://github.com/sumitrj/Protection-Switchgear-Selection-Tool-for-Schneider-Electric
 
-4. MARL: Multi-agent Reinforcement Learning Algorithm for path planning 
+4. ConnectedQ: Multi-agent Reinforcement Learning Algorithm for path planning 
 https://github.com/sumitrj/Swarm-Robotics-Path-Planning-M.A.R.L.
 
 5. WiFi.Locate: Indoor Positioning System
